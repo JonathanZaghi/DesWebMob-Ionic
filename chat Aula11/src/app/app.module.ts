@@ -18,7 +18,7 @@ export const firebaseConfig = {
   projectId: "usjt-ccp3anmca-notable-notes",
   storageBucket: "usjt-ccp3anmca-notable-notes.appspot.com",
   messagingSenderId: "961998376138",
-  appId: "1:961998376138:web:417be583fb2b2d12"
+  appId: "1:187952178188:web:5647ef8487asev78"
 };
 
 
